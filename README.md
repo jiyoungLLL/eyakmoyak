@@ -2,7 +2,8 @@
 
 ## 팀 소개 (chicken pharm)
 
-<img src="https://kdt-gitlab.elice.io/ai_track/class_10/ai_project/team04/chicken_pharm/-/wikis/uploads/4db131d032daba4376dab26d4d9730e6/image.png" alt="image" width="400px">
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/bbc5ee57-92f9-43d5-94aa-faa7710e204e">
+
 
 - **팀 이름 : chicken pharm**
 
@@ -98,7 +99,8 @@
 
 - ERD
 
-<img src="https://kdt-gitlab.elice.io/ai_track/class_10/ai_project/team04/chicken_pharm/-/wikis/uploads/cdbdd53e96efc6d561e97222f99f93b6/image.png" alt="image" width="700px">
+<img width="700" alt="image (1)" src="https://github.com/user-attachments/assets/17ed49e4-3948-47d2-aa32-4d0e5153dc3c">
+
 
 ### 3. 기술 스택
 
@@ -112,7 +114,8 @@
 
 - AI : Python, ChatGPT-4o mini, Google Cloud Vision API OCR
 
-<img src="https://kdt-gitlab.elice.io/ai_track/class_10/ai_project/team04/chicken_pharm/-/wikis/uploads/edb62b79bc52188f500fb3b7044985f2/image.png" alt="image" width="700px">
+<img width="700" alt="image (2)" src="https://github.com/user-attachments/assets/76c6f407-8c3e-40c2-8f88-8a51eb524ab3">
+
 
 ### 4. 버전
 
