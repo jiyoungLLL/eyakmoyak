@@ -30,7 +30,7 @@
 
 ### 1. 프로젝트 소개
 
-<img src="https://kdt-gitlab.elice.io/ai_track/class_10/ai_project/team04/chicken_pharm/-/wikis/uploads/e3fdb43a82d1be23dc42332c74afa6d5/image.png" alt="image" width="400px">
+<img src="./client/src/assets/img/logo.png" alt="image" width="400px">
 
 #### 1) 이약뭐약 (eyakmoyak)
 
